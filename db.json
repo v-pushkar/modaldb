@@ -121,23 +121,6 @@
       "licens": "GHJ7823",
       "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
     },
-    {
-      "id": 121,
-      "year": 2017,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 5040",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
-    },
-    {
-      "id": 122,
-      "year": 2017,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 5040",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
-    }
+    
   ]
 }
