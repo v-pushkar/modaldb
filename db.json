@@ -71,7 +71,7 @@
       "img": "http://astra.site4u.top/assets/img/equipments-2.png",
       "assigned": 25,
       "available": 10
-    },
+    }
     
   ],
   "vehiclesList": [
@@ -120,7 +120,6 @@
       "model": "Express 5040",
       "licens": "GHJ7823",
       "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
-    },
-    
+    }    
   ]
 }
