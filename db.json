@@ -28,98 +28,103 @@
   },
   "equipmentsList": [
     {
-      "id": 123,
-      "name": "Commercial Generator",
-      "model": "SGX3500",
-      "category": "Construction",
-      "img": "http://astra.site4u.top/assets/img/equipments-1.png",
-      "assigned": 45,
-      "available": 15
+      id: 123,
+      name: "Commercial Generator SGX3500",
+      type: "Commercial Generator",
+      model: "SGX3500",
+      category: "Construction",
+      img: "http://astra.site4u.top/assets/img/equipments-1.png",
+      assigned: 45,
+      available: 15
     },
     {
-      "id": 124,
-      "name": "Generator",
-      "model": "SGX3500",
-      "category": "Construction",
-      "img": "http://astra.site4u.top/assets/img/equipments-2.png",
-      "assigned": 25,
-      "available": 10
+      id: 124,
+      name: "Pomp SGX3500",
+      model: "SGX3500",
+      category: "Construction",
+      img: "http://astra.site4u.top/assets/img/equipments-2.png",
+      assigned: 25,
+      available: 10
     },
     {
-      "id": 125,
-      "name": "Commercial Generator",
-      "model": "SGX3500",
-      "category": "Construction",
-      "img": "http://astra.site4u.top/assets/img/equipments-1.png",
-      "assigned": 60,
-      "available": 5
+      id: 125,
+      name: "Commercial Generator SGX3500",
+      model: "SGX3500",
+      category: "Construction",
+      img: "http://astra.site4u.top/assets/img/equipments-1.png",
+      assigned: 60,
+      available: 5
     },
     {
-      "id": 133,
-      "name": "Commercial Generator",
-      "model": "SGX3500",
-      "category": "Construction",
-      "img": "http://astra.site4u.top/assets/img/equipments-1.png",
-      "assigned": 45,
-      "available": 15
+      id: 133,
+      name: "Commercial Generator",
+      model: "SGX3500",
+      category: "Construction",
+      img: "http://astra.site4u.top/assets/img/equipments-1.png",
+      assigned: 45,
+      available: 15
     },
     {
-      "id": 154,
-      "name": "Generator",
-      "model": "SGX3500",
-      "category": "Construction",
-      "img": "http://astra.site4u.top/assets/img/equipments-2.png",
-      "assigned": 25,
-      "available": 10
+      id: 154,
+      name: "Pomp SGX3500",
+      model: "SGX3500",
+      category: "Construction",
+      img: "http://astra.site4u.top/assets/img/equipments-2.png",
+      assigned: 25,
+      available: 10
     }
     
   ],
   "vehiclesList": [
     {
-      "id": 112,
-      "year": 2016,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 25000",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
-    },
-    
-    {
-      "id": 117,
-      "year": 2017,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 5040",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
+      id: 112,
+      name: "Chevrolet Express 25000",
+      year: 2016,
+      mark: "Chevrolet",
+      km: 125000,
+      model: "Express 25000",
+      licens: "GHJ7823",
+      img: "http://astra.site4u.top/assets/img/vehicle-1.png"
     },
     {
-      "id": 118,
-      "year": 2017,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 5040",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
+      id: 113,
+      name: "Chevrolet Express 25000",
+      year: 2018,
+      mark: "Chevrolet",
+      km: 125000,
+      model: "Express 15000",
+      licens: "GHJ7823",
+      img: "http://astra.site4u.top/assets/img/vehicle-1.png"
     },
     {
-      "id": 119,
-      "year": 2017,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 5040",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
+      id: 114,
+      name: "Opel Vivaro 2.5",
+      year: 2019,
+      mark: "Chevrolet",
+      km: 125000,
+      model: "Express 5000",
+      licens: "GHJ7823",
+      img: "http://astra.site4u.top/assets/img/vehicle-1.png"
     },
     {
-      "id": 120,
-      "year": 2017,
-      "mark": "Chevrolet",
-      "km": 125000,
-      "model": "Express 5040",
-      "licens": "GHJ7823",
-      "img": "http://astra.site4u.top/assets/img/vehicle-1.png"
-    }    
+      id: 115,
+      name: "Fiat Ducato",
+      year: 2017,
+      mark: "Chevrolet",
+      km: 125000,
+      model: "Express 5040",
+      licens: "GHJ7823",
+      img: "http://astra.site4u.top/assets/img/vehicle-1.png"
+    },
+    {
+      id: 117,
+      name: "Renault Trafic 3.0 ",
+      year: 2017,
+      mark: "Chevrolet",
+      km: 125000,
+      model: "Express 5040",
+      licens: "GHJ7823",
+      img: "http://astra.site4u.top/assets/img/vehicle-1.png"
+    },
   ]
 }
