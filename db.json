@@ -45,6 +45,33 @@
             "img": "http://astra.site4u.top/assets/img/equipments-2.png",
             "assigned": 25,
             "available": 10
+    },
+        {
+            "id": 156,
+            "name": "Pomp",
+            "model": "S500",
+            "category": "Construction",
+            "img": "http://intertechservice.pl/img/images/modernizacja-pomp-przemyslowych.jpg",
+            "assigned": 25,
+            "available": 10
+    },
+        {
+            "id": 129,
+            "name": "Commercial Generator SGX3500",
+            "model": "SGX3500",
+            "category": "Construction",
+            "img": "http://astra.site4u.top/assets/img/equipments-1.png",
+            "assigned": 60,
+            "available": 5
+    },
+        {
+            "id": 154,
+            "name": "Generator",
+            "model": "SGX3500",
+            "category": "Construction",
+            "img": "http://astra.site4u.top/assets/img/equipments-2.png",
+            "assigned": 25,
+            "available": 10
     }
   ]
 
