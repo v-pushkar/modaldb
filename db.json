@@ -1,7 +1,6 @@
 {
 
-    "equipmentsList": [
-        {
+    "equipment": [{
             "id": 123,
             "name": "Commercial Generator SGX3500",
             "created_at": "2019-10-29T13:25:56.749Z",
@@ -13,8 +12,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 2
+		},
         {
             "id": 124,
             "name": "Pomp DP200",
@@ -27,8 +26,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 2
+		},
         {
             "id": 125,
             "name": "Commercial Generator SGX3500",
@@ -41,8 +40,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 2
+		},
         {
             "id": 133,
             "name": "Generator F520",
@@ -55,8 +54,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 3
+		},
         {
             "id": 154,
             "name": "Generator",
@@ -69,8 +68,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 1
+		},
         {
             "id": 156,
             "name": "Pomp",
@@ -83,8 +82,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 1
+		},
         {
             "id": 129,
             "name": "Commercial Generator SGX3500",
@@ -97,8 +96,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    },
+            "total_owned": 2
+		},
         {
             "id": 154,
             "name": "Generator",
@@ -111,8 +110,8 @@
             "updated_at": "2019-12-16T14:00:31.727Z",
             "damaged": 4,
             "description": "bootest_description",
-            "total_owned": 2,
-    }
-  ]
+            "total_owned": 2
+		}
+	]
 
 }
